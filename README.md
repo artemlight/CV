@@ -2,6 +2,7 @@
 Software Engineer, DevOps Engineer.
 32 Years
 
+
 # Core skills
 - Python
 - C \ C++
@@ -24,6 +25,7 @@ Software Engineer, DevOps Engineer.
 # Education
 2008-2011 National Research University of Electronic Technology (MIET), Moscow [unfinished]
 
+
 # Side projects
 - [c, mellanox vma] Linux userspace IP protocol implementation for HFT applications.
 - [python] IT Asset discovery & inventory library.
@@ -33,6 +35,7 @@ Software Engineer, DevOps Engineer.
 - [python] Offline configuration security analysis tool for RouterOS devices. 
 - [python, c, lua, ansible] Asterisk PBX multi-tenant clustering support for private application.
 - [c++] Windows NLS Awareness implementation for OpenVPN Community client. 
+
 
 # Languages
 - Russian - native.
